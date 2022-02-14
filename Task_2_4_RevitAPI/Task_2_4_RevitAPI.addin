@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\Task_2_4_RevitAPI.dll"</Assembly>
+		<AddInId>452AF473-7F39-4CC4-86DD-E1C54907776F</AddInId>
+		<FullClassName>Task_2_4_RevitAPI.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество воздуховодов по этажам</Text>
+	</AddIn>
+</RevitAddIns>
